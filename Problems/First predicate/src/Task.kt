@@ -1,0 +1,1 @@
+fun isEven(num: Int) = num % 2 == 0
