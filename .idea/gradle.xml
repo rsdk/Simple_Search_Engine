@@ -11,7 +11,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Area of a circle" />
             <option value="$PROJECT_DIR$/Problems/Cause an exception" />
+            <option value="$PROJECT_DIR$/Problems/Evaluate an expression" />
             <option value="$PROJECT_DIR$/Problems/Exabytes" />
             <option value="$PROJECT_DIR$/Problems/First predicate" />
             <option value="$PROJECT_DIR$/Problems/Function composition" />
@@ -21,6 +23,7 @@
             <option value="$PROJECT_DIR$/Problems/Handle number format exception" />
             <option value="$PROJECT_DIR$/Problems/Handle string exception" />
             <option value="$PROJECT_DIR$/Problems/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Problems/Liquid pressure" />
             <option value="$PROJECT_DIR$/Problems/Max" />
             <option value="$PROJECT_DIR$/Problems/Not  predicate" />
             <option value="$PROJECT_DIR$/Problems/Percentage" />
