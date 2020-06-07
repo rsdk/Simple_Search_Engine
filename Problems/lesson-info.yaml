@@ -6,3 +6,6 @@ content:
 - Function composition (1)
 - Not  predicate
 - Cause an exception
+- Handle arithmetic exception
+- Handle string exception
+- Handle number format exception
