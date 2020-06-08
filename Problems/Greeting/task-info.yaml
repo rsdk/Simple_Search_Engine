@@ -1,0 +1,9 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: fun greetNeo() = greetUser(...)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7863
+status: Solved
+record: -1
