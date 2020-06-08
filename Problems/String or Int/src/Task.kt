@@ -1,1 +1,3 @@
-fun isNumber(input: String) // write this function
+fun isNumber(input: String): Any {
+    return input.toIntOrNull() ?: input
+}
