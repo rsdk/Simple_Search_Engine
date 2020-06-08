@@ -14,12 +14,14 @@
             <option value="$PROJECT_DIR$/Problems/Area of a circle" />
             <option value="$PROJECT_DIR$/Problems/Cause an exception" />
             <option value="$PROJECT_DIR$/Problems/Check length" />
+            <option value="$PROJECT_DIR$/Problems/Concatenate 3 strings with separator" />
             <option value="$PROJECT_DIR$/Problems/Evaluate an expression" />
             <option value="$PROJECT_DIR$/Problems/Exabytes" />
             <option value="$PROJECT_DIR$/Problems/First predicate" />
             <option value="$PROJECT_DIR$/Problems/Function composition" />
             <option value="$PROJECT_DIR$/Problems/Function composition (1)" />
             <option value="$PROJECT_DIR$/Problems/Function generator" />
+            <option value="$PROJECT_DIR$/Problems/Gratuity" />
             <option value="$PROJECT_DIR$/Problems/Handle arithmetic exception" />
             <option value="$PROJECT_DIR$/Problems/Handle number format exception" />
             <option value="$PROJECT_DIR$/Problems/Handle string exception" />
@@ -29,6 +31,7 @@
             <option value="$PROJECT_DIR$/Problems/Max" />
             <option value="$PROJECT_DIR$/Problems/Not  predicate" />
             <option value="$PROJECT_DIR$/Problems/Percentage" />
+            <option value="$PROJECT_DIR$/Problems/Polynomial" />
             <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
             <option value="$PROJECT_DIR$/Problems/Reverse me if you can" />
             <option value="$PROJECT_DIR$/Problems/Safe round" />
