@@ -35,3 +35,6 @@ content:
 - Duplication
 - Fridge
 - House inheritance
+- copy() usage
+- equals() check
+- toString() modification
