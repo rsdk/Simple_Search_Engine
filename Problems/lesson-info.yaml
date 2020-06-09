@@ -38,3 +38,5 @@ content:
 - copy() usage
 - equals() check
 - toString() modification
+- Fix a bug
+- Check a code
